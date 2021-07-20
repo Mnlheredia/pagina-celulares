@@ -1,0 +1,122 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Helvetica, Arial, sans-serif;
+	color: rgb(255, 255, 255);
+	background: #737c73; 
+	font-size: 1em;
+	line-height: 1.5em;
+}
+
+h1 {
+	font-size: 2.3em;
+	line-height: 1.3em;
+	margin: 15px 0;
+	text-align: center;
+	font-weight: 300;
+}
+
+p {
+	margin: 0 0 1.5em 0;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+#header {
+	background: rgb(35, 37, 33);
+	color: rgb(158, 158, 158);
+	height: 150px;
+	
+}	
+	#main-header a {
+		color: white;
+	}
+
+
+#logo-header {
+	float: left;
+	padding: 50px 0 0 20px;
+	text-decoration: none;
+}
+	#logo-header:hover {
+		color: #ffffff;
+	}
+	
+	#logo-header .site-name {
+		display: block;
+		font-weight: 700;
+		font-size: 3.2em;
+	}
+	
+	#logo-header .site-desc {
+		display: block;
+		font-weight: 300;
+		font-size: 0.0em;
+		color: rgb(48, 52, 248);
+	}
+	
+	nav {
+		float: right;
+	}
+		nav ul {
+			margin: 0;
+			padding: 0;
+			list-style: none;
+			padding-right: 30px;
+		}
+		
+			nav ul li {
+				display: inline-block;
+				line-height: 150px;
+			}
+				
+				nav ul li a {
+					display: block;
+					padding: 0 20px;
+					text-decoration: none;
+				}
+				
+					nav ul li a:hover {
+						background: #c2c2c2;
+					}
+
+                
+                    
+
+                        #main-header {
+                            background: #333;
+                            color: white;
+                            height: 80px;
+                            
+                            width: 100%; 
+                            left: 0;
+                            top: 0; 
+                            position: fixed; 
+
+                            body {
+                                margin: 0;
+                                padding: 0;
+                                font-family: Helvetica, Arial, sans-serif;
+                                color: #666;
+                                background: #f2f2f2; 
+                                font-size: 1em;
+                                line-height: 1.5em;
+                                
+                                padding-top: 80px;
+		
+							
+					
+
+
+
+
+
+
+
+
+
+
+							
